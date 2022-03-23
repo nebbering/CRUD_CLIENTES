@@ -9,3 +9,4 @@ C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\TelaDeCadastr
 C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\TelaDeCadastro\obj\Debug\TelaDeCadastro.exe
 C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\TelaDeCadastro\obj\Debug\TelaDeCadastro.pdb
 C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\TelaDeCadastro\obj\Debug\TelaDeCadastro.frmCadCli.resources
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\TelaDeCadastro\bin\Debug\CadClientes.accdb
