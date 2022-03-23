@@ -1,0 +1,7 @@
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\CRUD_Cliente\obj\Debug\net6.0-windows\CRUD_Cliente.vbproj.AssemblyReference.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\CRUD_Cliente\obj\Debug\net6.0-windows\CRUD_Cliente.frmCadastroCliente.resources
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\CRUD_Cliente\obj\Debug\net6.0-windows\CRUD_Cliente.vbproj.GenerateResource.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\CRUD_Cliente\obj\Debug\net6.0-windows\CRUD_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\CRUD_Cliente\obj\Debug\net6.0-windows\CRUD_Cliente.AssemblyInfoInputs.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\CRUD_Cliente\obj\Debug\net6.0-windows\CRUD_Cliente.AssemblyInfo.vb
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\CRUD_CLIENTES\CRUD_Cliente\CRUD_Cliente\obj\Debug\net6.0-windows\CRUD_Cliente.vbproj.CoreCompileInputs.cache
